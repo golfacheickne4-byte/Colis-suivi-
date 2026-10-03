@@ -1,0 +1,6 @@
+{
+  "name": "ColisTrack",
+  "description": "Application moderne de suivi et gestion de colis avec statuts en temps réel, chronologie des étapes, alertes et recherche multi-transporteurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
